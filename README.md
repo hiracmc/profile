@@ -1,2 +1,0 @@
-# profile
-htmlの練習
