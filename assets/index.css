@@ -22,17 +22,17 @@ a {
   vertical-align: middle;
   text-decoration: none;
   letter-spacing: 0.1em;
-  color: #212529;
+  color: #0c7bf9;
   border-radius: 0.5rem;
 }
 
 .btn--orange,
 a.btn--orange {
   color: #fff;
-  background-color: #eb6100;
+  background-color: #0c7bf9;
 }
 .btn--orange:hover,
 a.btn--orange:hover {
   color: #fff;
-  background: #f56500;
+  background: #63aafa;
 }
