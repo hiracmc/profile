@@ -90,9 +90,9 @@ a.btn--orange:hover {
   background-image: url(https://hiracmc.github.io/profile/assets/noimage.png);
 }
 
-box {
+.box {
   margin       : auto;
   width        : 400px;
   height       : 205px;
-  background   : #ffffff;
+  background   : #e1edff;
 }
