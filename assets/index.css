@@ -95,4 +95,6 @@ a.btn--orange:hover {
   width        : 400px;
   height       : 205px;
   background   : #e1edff;
+  border: solid 3px #e1edff;
+    border-radius: 10px;
 }
