@@ -96,6 +96,6 @@ a.btn--orange:hover {
   height       : 600px;
   background   : #fff;
   border: solid 3px #fff;
-    border-radius: 10px;
+    border-radius: 40px;
   box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
 }
